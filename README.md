@@ -1,28 +1,22 @@
 <!-- ───────────── header ───────────── -->
-<img width="100%" src="assets/hand-banner.svg" alt="animated hand fingerspelling BUILD in Spanish Sign Language" />
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=24C6DC&center=true&vCenter=true&width=600&lines=2x+IOI+%C2%B7+Ecuador.;teaching+computers+sign+language.;it+works+on+my+machine.+and+yours.;sleep%28%29+is+deprecated.;it%27s+not+a+bug.+it%27s+a+hyperparameter.;99%25+accuracy%3F+suspicious.;segfault-free+since+this+morning.;%2F%2F+TODO%3A+sleep;git+commit+-m+%22fixed+it+%28again%29%22" />
+<img width="55%" src="assets/hand-banner.svg" alt="animated hand fingerspelling BUILD in Spanish Sign Language" />
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=24C6DC&center=true&vCenter=true&width=600&lines=2x+IOI+%C2%B7+Ecuador.;teaching+computers+sign+language.;it+works+on+my+machine.+and+yours.;sleep%28%29+is+deprecated.;it%27s+not+a+bug.+it%27s+a+hyperparameter.;99%25+accuracy%3F+suspicious.;segfault-free+since+this+morning.;%2F%2F+TODO%3A+sleep;git+commit+-m+%22fixed+it+%28again%29%22" />
 
 <a href="https://www.linkedin.com/in/mateo-sebastian-neira-castillo-9514b5351"><img src="https://img.shields.io/badge/linkedin-0f0c29?style=for-the-badge&logo=linkedin&logoColor=24c6dc" /></a>
 
 </div>
 
-<br/>
-
 <!-- ───────────── about ───────────── -->
 ```python
 about = {
-    "based_in":   "madrid",
     "studying":   "cs & ai @ ie university",
     "into":       ["computer vision", "applied ml", "competitive programming"],
     "competed":   "IOI 2024, IOI 2025 — Ecuador",
     "coaching":   "ecuador's national programming team (c++)",
     "teaching":   "workshops @ ie coding club",
-    "now":        "gesture rules → a trained model",
     "rule":       "if it says 99%, check for leakage",
 }
 ```
@@ -55,7 +49,7 @@ reads spanish sign language from a webcam and says it out loud. first score was 
 </tr>
 </table>
 
-<p align="center"><sub>came from a coding club workshop? the code's in <a href="https://github.com/MateoNeiraCastillo/coding-club-workshops"><b>coding-club-workshops</b></a> 👋</sub></p>
+<p align="center">👋 <b>coding club:</b> came from one of our workshops? all the code lives in <a href="https://github.com/MateoNeiraCastillo/coding-club-workshops"><b>coding-club-workshops</b></a></p>
 
 <!-- ───────────── stack ───────────── -->
 <h3 align="center">stack</h3>
