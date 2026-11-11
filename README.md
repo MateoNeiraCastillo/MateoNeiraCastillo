@@ -21,6 +21,7 @@ about = {
     "into":       ["computer vision", "applied ml", "competitive programming"],
     "competed":   "IOI 2024, IOI 2025 — Ecuador",
     "coaching":   "ecuador's national programming team (c++)",
+    "teaching":   "workshops @ ie coding club",
     "now":        "gesture rules → a trained model",
     "rule":       "if it says 99%, check for leakage",
 }
@@ -53,6 +54,18 @@ reads spanish sign language from a webcam and says it out loud. first score was 
 </td>
 </tr>
 </table>
+
+<!-- ───────────── coding club ───────────── -->
+<h3 align="center">coding club 👋</h3>
+
+<p align="center">
+came from one of our workshops? all the code lives in <a href="https://github.com/MateoNeiraCastillo/coding-club-workshops"><b>coding-club-workshops</b></a>.<br/>
+no setup needed: open a notebook in google colab and run it in your browser.
+</p>
+
+<p align="center">
+  <a href="https://github.com/MateoNeiraCastillo/coding-club-workshops"><img src="https://img.shields.io/badge/workshop_code-0f0c29?style=for-the-badge&logo=github&logoColor=24c6dc" /></a>
+</p>
 
 <!-- ───────────── stack ───────────── -->
 <h3 align="center">stack</h3>
