@@ -1,9 +1,7 @@
 <!-- ───────────── header ───────────── -->
+<img width="100%" src="assets/hand-banner.svg" alt="animated hand fingerspelling BUILD in Spanish Sign Language" />
+
 <div align="center">
-
-<img width="55%" src="assets/hand-banner.svg" alt="animated hand fingerspelling BUILD in Spanish Sign Language" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=24C6DC&center=true&vCenter=true&width=600&lines=2x+IOI+%C2%B7+Ecuador.;teaching+computers+sign+language.;it+works+on+my+machine.+and+yours.;sleep%28%29+is+deprecated.;it%27s+not+a+bug.+it%27s+a+hyperparameter.;99%25+accuracy%3F+suspicious.;segfault-free+since+this+morning.;%2F%2F+TODO%3A+sleep;git+commit+-m+%22fixed+it+%28again%29%22" />
 
 <a href="https://www.linkedin.com/in/mateo-sebastian-neira-castillo-9514b5351"><img src="https://img.shields.io/badge/linkedin-0f0c29?style=for-the-badge&logo=linkedin&logoColor=24c6dc" /></a>
 
@@ -31,9 +29,8 @@ about = {
 #### 🖐️ [air gesture controller](https://github.com/MateoNeiraCastillo/air-gesture-controller)
 an invisible nes controller. thumb gestures → key presses. plays subway surfers with just a webcam.
 
-`~70 ms` frame-to-key · `99.4%` worst-button accuracy · `153` tests in ci
-
-<img src="https://img.shields.io/badge/python-0f0c29?style=flat-square&logo=python&logoColor=24c6dc" /> <img src="https://img.shields.io/badge/mediapipe-0f0c29?style=flat-square&logo=google&logoColor=24c6dc" /> <img src="https://img.shields.io/badge/opencv-0f0c29?style=flat-square&logo=opencv&logoColor=24c6dc" /> <img src="https://img.shields.io/badge/actions-0f0c29?style=flat-square&logo=githubactions&logoColor=24c6dc" />
+`~70 ms` frame-to-key · `99.4%` worst-button accuracy · `153` tests in ci<br/>
+<sub>python · mediapipe · opencv · github actions</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -41,9 +38,8 @@ an invisible nes controller. thumb gestures → key presses. plays subway surfer
 #### 🤟 [sign language translator](https://github.com/MateoNeiraCastillo/SignLanguageTranslator)
 reads spanish sign language from a webcam and says it out loud. first score was 99%. it was leakage.
 
-`96.4%` leakage-free · `8,060` samples recorded · `26` letters
-
-<img src="https://img.shields.io/badge/python-0f0c29?style=flat-square&logo=python&logoColor=24c6dc" /> <img src="https://img.shields.io/badge/mediapipe-0f0c29?style=flat-square&logo=google&logoColor=24c6dc" /> <img src="https://img.shields.io/badge/scikit--learn-0f0c29?style=flat-square&logo=scikitlearn&logoColor=24c6dc" />
+`96.4%` leakage-free · `8,060` samples recorded · `26` letters<br/>
+<sub>python · mediapipe · scikit-learn</sub>
 
 </td>
 </tr>
