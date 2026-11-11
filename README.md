@@ -55,17 +55,7 @@ reads spanish sign language from a webcam and says it out loud. first score was 
 </tr>
 </table>
 
-<!-- ───────────── coding club ───────────── -->
-<h3 align="center">coding club 👋</h3>
-
-<p align="center">
-came from one of our workshops? all the code lives in <a href="https://github.com/MateoNeiraCastillo/coding-club-workshops"><b>coding-club-workshops</b></a>.<br/>
-no setup needed: open a notebook in google colab and run it in your browser.
-</p>
-
-<p align="center">
-  <a href="https://github.com/MateoNeiraCastillo/coding-club-workshops"><img src="https://img.shields.io/badge/workshop_code-0f0c29?style=for-the-badge&logo=github&logoColor=24c6dc" /></a>
-</p>
+<p align="center"><sub>came from a coding club workshop? the code's in <a href="https://github.com/MateoNeiraCastillo/coding-club-workshops"><b>coding-club-workshops</b></a> 👋</sub></p>
 
 <!-- ───────────── stack ───────────── -->
 <h3 align="center">stack</h3>
